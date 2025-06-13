@@ -1,0 +1,21 @@
+bannerflow-clone/
+  client/
+    src/
+      components/
+        BannerGenerator.jsx
+        BulkUpload.jsx
+      App.jsx
+      index.js
+    package.json
+    Dockerfile
+  server/
+    routes/
+      bannerRoutes.js
+      bulkRoutes.js
+    models/
+      User.js
+    app.js
+    package.json
+    Dockerfile
+    .env.example
+  README.md
