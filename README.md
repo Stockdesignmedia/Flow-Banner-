@@ -1,4 +1,4 @@
-# Bannerflow Clone
+# Flow Banner
 
 A full-stack banner generator web app inspired by bannerflow.com.
 
